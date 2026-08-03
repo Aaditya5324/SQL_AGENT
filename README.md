@@ -8,7 +8,7 @@
 An interactive web interface for the LangChain SQL Agent. Upload your SQLite databases, ask questions in plain English, and let the AI write and execute the SQL to get answers grounded in your data.
 
 > **Preview**  
-> *[Optional: Add a screenshot or GIF of your Streamlit app here! Replace this text with `![App Screenshot](./assets/demo.gif)`]*
+> `![App Screenshot](image.png)`
 
 ---
 
