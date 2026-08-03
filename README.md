@@ -8,7 +8,7 @@
 An interactive web interface for the LangChain SQL Agent. Upload your SQLite databases, ask questions in plain English, and let the AI write and execute the SQL to get answers grounded in your data.
 
 > **Preview**  
-> `![App Screenshot](image.png)`
+> ![App Screenshot](image.png)
 
 ---
 
